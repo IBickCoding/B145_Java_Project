@@ -7,3 +7,4 @@ Final Project for B145: Object Oriented Programming 1 (Java)
    * the game. My major modification was a tier and battle system.
    
    * To run this code you will have to download the Greenfoot launcher from their website, or you can play the game directly from the website.
+   * Visit https://www.greenfoot.org/scenarios/34359 to play the game without having to download anything!
