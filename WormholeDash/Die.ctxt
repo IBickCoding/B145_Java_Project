@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\r\n\ Represents\ a\ die\ object,\ but\ there's\ not\ much\ code\ here\ as\ all\ die-rolling\ logic\ is\ handled\ by\ GameBoard\r\n\ (The\ Die\ class\ code\ is\ still\ "necessary"\ so\ that\ we\ can\ instantiate\ a\ Die\ object\ and\ have\ a\ graphical\ "sprite"\r\n\ that\ you\ can\ click\ on\ with\ your\ mouse\ when\ prompted\ to\ do\ so)\r\n\ \r\n\ @author\ \ bickfori@email.uscb.edu\r\n\ @version\ Final\ Version\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Die\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

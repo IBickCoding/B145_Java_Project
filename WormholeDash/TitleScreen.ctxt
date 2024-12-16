@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TitleScreen
+comment0.text=\r\n\ Title\ screen\ that\ appears\ when\ the\ game\ first\ starts.\r\n\ \r\n\ @author\ \ bickfori@email.uscb.edu\ \r\n\ @version\ Final\ Version\r\n
+comment1.params=
+comment1.target=TitleScreen()
+comment1.text=\r\n\ Initilializes\ the\ title\ screen\r\n
+numComments=2

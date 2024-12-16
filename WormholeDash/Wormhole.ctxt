@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Wormhole
+comment0.text=\r\n\ Does\ nothing,\ just\ an\ aesthetic\ goal\ zone\ in\ theme\ with\ the\ name\ of\ the\ game.\ The\ "goalzone".\r\n\ \r\n\ @author\ \ bickfori@email.uscb.edu\ \r\n\ @version\ Final\ Version\r\n
+comment1.params=
+comment1.target=Wormhole()
+comment1.text=\r\n\ Initializes\ the\ image\ of\ Wormhole\ objects\r\n
+numComments=2

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Represents\ a\ GameBoard\ space\ and\ its\ associated\ attributes\ (i.e.,\ is\ it\ a\ reroll\ space\ or\ not,\ is\ it\ occupied\ \r\n\ by\ a\ given\ player's\ piece\ or\ not,\ etc.)\r\n\ \r\n\ @author\ \ bickfori@email.uscb.edu\r\n\ @version\ Final\ Version\r\n
+comment1.params=rerollSpace
+comment1.target=Space(boolean)
+comment1.text=\r\n\ Initializes\ the\ attributes\ of\ each\ Space\ object\r\n\ \r\n\ @param\ rerollSpace\ \ \ true\ if\ this\ is\ a\ reroll\ space,\ false\ otherwise\r\n
+comment2.params=playerIndex
+comment2.target=boolean\ isOccupiedByPieceForPlayerIndex(int)
+comment2.text=\r\n\ Getter\ method\ returns\ `true`\ if\ this\ space\ is\ occupied\ by\ a\ piece\r\n\ belonging\ to\ the\ player\ corresponding\ to\ playerIndex;\r\n\ \r\n\ @param\ playerIndex\ \ \ the\ index\ of\ the\ player\ whose\ piece\ may\ be\ occupying\ this\ Space\r\n
+comment3.params=playerIndex\ occupied
+comment3.target=void\ setOccupiedByPieceForPlayerIndex(int,\ boolean)
+comment3.text=\r\n\ Setter\ method\ updates\ the\ value\ of\ the\ current\ ("this")\ object's\ value\ of\ who\ currently\ occupies\ the\ space.\r\n\ \r\n\ @param\ playerIndex\ \ \ the\ index\ of\ the\ player\ whose\ piece\ may\ be\ occupying\ this\ Space\r\n\ @param\ occupied\ \ \ \ \ \ true\ if\ this\ Space\ is\ now\ occupied\ by\ a\ piece\ belonging\ to\ the\ given\ player\r\n
+comment4.params=
+comment4.target=boolean\ isRerollSpace()
+comment4.text=\r\n\ Getter\ method\ returns\ `true`\ if\ this\ space\ is\ a\ reroll\ space\r\n
+comment5.params=name
+comment5.target=void\ setSpaceName(java.lang.String)
+comment5.text=\r\n\ Setter\ for\ the\ name\ of\ planets\ and\ stars\ as\ part\ of\ my\ tangential\ learning\ component\r\n\ \r\n\ @param\ name\ \ \ \ the\ name\ of\ each\ of\ the\ planets\ and\ stars\ on\ the\ gameboard.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getSpaceName()
+comment6.text=\r\n\ Getter\ for\ acquiring\ the\ name\ of\ each\ space\ to\ later\ be\ displayed\ for\ the\ player.\r\n\ \r\n\ @return\ spaceName\ \ the\ name\ of\ the\ space\r\n
+numComments=7

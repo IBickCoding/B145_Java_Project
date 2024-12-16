@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Overlay
+comment0.text=\r\n\ Overlay\ acts\ as\ a\ filter\ over\ the\ gameboard\ when\ shifting\ focus\ to\ a\ button\ that\ displays\ something.\r\n\ \r\n\ @author\ \ bickfori@email.uscb.edu\ \r\n\ @version\ Final\ Version\r\n
+comment1.params=
+comment1.target=Overlay()
+comment1.text=\r\n\ Initilializes\ how\ an\ overlay\ will\ appear\ when\ used\ to\ shift\ focus\ off\ the\ board\r\n
+numComments=2
